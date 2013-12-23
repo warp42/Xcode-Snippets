@@ -3,7 +3,7 @@
 //
 // Plattform: All
 // Language: Objective-C
-// Completion Shortcut: declare_gco
+// Completion Shortcut: declareglobalconst
 // Completion Scope: Top Level
 
 extern <#type#> *const <#constant name#>;

@@ -3,7 +3,7 @@
 //
 // Plattform: All
 // Language: Objective-C
-// Completion Shortcut: pns
+// Completion Shortcut: propertynonatomicstrong
 // Completion Scope: Class Interface Methods
 
 @property (nonatomic, strong) <#type#> *<#name#>;

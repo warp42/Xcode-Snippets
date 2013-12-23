@@ -3,7 +3,7 @@
 //
 // Plattform: All
 // Language: Objective-C
-// Completion Shortcut: tep
+// Completion Shortcut: testpropertyexistence.m
 // Completion Scope: Class Implementation
 
 - (void)testThat<#TestObject#>Has<#PropertyName#>Property

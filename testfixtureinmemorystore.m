@@ -3,7 +3,7 @@
 //
 // Plattform: All
 // Language: Objective-C
-// Completion Shortcut: tfims
+// Completion Shortcut: testfixtureinmemorystore.m
 // Completion Scope: Class Implementation
 
 - (void)setUp
